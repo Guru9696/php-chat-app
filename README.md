@@ -74,7 +74,5 @@ To get this chat app up and running, follow these steps:
 ![Aniket Room Example](img/screenshot/ajchat.png)
 
 
-## License
 
-This project is licensed under the MIT License.
 
