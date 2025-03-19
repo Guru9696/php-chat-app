@@ -10,6 +10,7 @@ This project is a simple chat application that allows users to communicate in re
 ## Required Tools and Technologies
 
 - **Programming Language**: PHP, JavaScript (jQuery)
+- **Frontend technology: HTML, CSS, JS, BOOTSTRAP 
 - **Database**: MySQL
 - **Libraries/Dependencies**:
   - Bootstrap
